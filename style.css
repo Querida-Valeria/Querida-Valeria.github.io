@@ -55,17 +55,16 @@ img {
 
 /* ======== ESTILOS DE LAS SECCIONES ======== */
 
-/* Hero (sección de bienvenida) */
-.hero {
+.hello {
     background-color: var(--color-pink);
-    min-height: 100vh; /* Ocupa toda la altura de la pantalla del celular */
+    min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 20px 0;
 }
 
-.hero-kitty {
+.hello-kitty {
     max-width: 170px;
     margin-bottom: 0.5rem;
 }
